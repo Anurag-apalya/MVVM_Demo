@@ -12,6 +12,7 @@ import com.example.mvvmdemo.model.Users;
 public class UserViewModel extends BaseObservable {
     private Users users;
 
+
     private String successMessage = "Login Successfull";
     private String errorMessage = "Error in login";
 
